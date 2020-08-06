@@ -1,4 +1,4 @@
-baseURL = "https://its-yorkshire.com"
+baseURL = "https://www.its-yorkshire.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "blank"
