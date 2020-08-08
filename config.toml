@@ -2,3 +2,9 @@ baseURL = "https://www.its-yorkshire.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "blank"
+#remove Public DIR
+cleanDestinationDir = "true"
+disableHugoGeneratorInject = "true"
+enableEmoji = "true"
+
+googleAnalytics = "UA-101338082-2"
