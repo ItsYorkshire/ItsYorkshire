@@ -2,9 +2,19 @@ baseURL = "https://www.its-yorkshire.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "blank"
+
 #remove Public DIR
-cleanDestinationDir = "true"
+# cleanDestinationDir = "true"
 disableHugoGeneratorInject = "true"
 enableEmoji = "true"
 
 googleAnalytics = "UA-101338082-2"
+#
+publishDir = "public"
+
+verbose = "true"
+
+[Params.widgets]
+    search = true # Enable "Search" widget
+    recent_articles = true # Enable "Recent arcticles" widget
+    categories = true # Enable "Categories" widget

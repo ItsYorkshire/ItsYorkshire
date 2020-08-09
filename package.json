@@ -1,0 +1,29 @@
+{
+  "name": "its-yorkshire",
+  "version": "1.0.0",
+  "description": "bootstrap 5.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "bootstrap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsYorkshire/itsyorkshire.git"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "its yorshire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItsYorkshire/itsyorkshire/issues"
+  },
+  "homepage": "https://github.com/ItsYorkshire/itsyorkshire#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.4.4",
+    "autoprefixer": "^9.8.6",
+    "bootstrap": "^5.0.0-alpha1",
+    "jquery": "^3.5.1",
+    "postcss-cli": "^7.1.1"
+  }
+}
